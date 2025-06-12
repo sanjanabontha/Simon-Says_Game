@@ -1,0 +1,44 @@
+h1, h3{
+    text-align: center;
+}
+
+.boxes{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 10px;
+    margin: 10px;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 25px;
+}
+
+.red{
+    background-color: #d95980;
+}
+.purple{
+    background-color: rgb(146, 3, 146);
+}
+.blue{
+    background-color: #63aac0;
+}
+.yellow{
+    background-color: #f99b45;
+}
+
+.flash{
+    background-color: white;
+}
+p{
+    text-align: center;
+    font-weight: bold;
+}
