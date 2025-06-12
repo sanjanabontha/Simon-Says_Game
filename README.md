@@ -1,5 +1,7 @@
-Overview
+# Simon Says_Game
+
 In this game, players must mimic a randomly generated sequence of colors. Each level adds a new color to the sequence. The player must remember and click the buttons in the correct order to progress. A wrong input ends the game, and the highest score is displayed.
+
 Features
 - Dynamic sequence generation
 - Interactive button flashes
@@ -31,7 +33,9 @@ How It Works
 - The highest score achieved is tracked during the session.
 
 Screenshot
-![image](https://github.com/user-attachments/assets/43019608-a918-4cdb-9046-1850685e3198)
+
+![image](https://github.com/user-attachments/assets/e3992d30-31d9-45e1-9969-494da0da264e)
+
 
 
 Developed by _sanjanabontha_
