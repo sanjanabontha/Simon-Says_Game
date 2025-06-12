@@ -20,9 +20,13 @@ Running the Game
 - Press any key to start the game and follow the sequence by clicking the colored buttons.
 
 Project Structure
+
 .
+
 ├── index.html    # Main HTML structure of the game
+
 ├── app.js        # JavaScript file containing game logic
+
 ├── style.css     # (Not provided but assumed) Styling for the game
 
 How It Works
